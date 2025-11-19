@@ -1,4 +1,4 @@
-Here is my project about personality prediction (introvert/extrovert)
+**Here is my project about personality prediction (introvert/extrovert)**
 
 Here is deploy link
 https://personality-test-1-yhri.onrender.com/
